@@ -114,10 +114,19 @@ cap.release()
 
 <img width="722" height="531" alt="image" src="https://github.com/user-attachments/assets/03db2fe0-d3b5-4bbe-b510-ef6d66033e68" />
 ii) Display the video
+
+
 <img width="656" height="493" alt="image" src="https://github.com/user-attachments/assets/724061a6-1702-49ad-b8a4-e056c3df572b" />
+
 iii) Display the video by resizing the window
+
+
 <img width="327" height="481" alt="image" src="https://github.com/user-attachments/assets/ada95435-5569-45a6-9b1f-05d6d8d2a872" />
+
+
 iv) Rotate and display the video
+
+
 <img width="384" height="481" alt="image" src="https://github.com/user-attachments/assets/a274b380-c9bb-4e2c-b1b2-9b77d4fb5cea" />
 
 
